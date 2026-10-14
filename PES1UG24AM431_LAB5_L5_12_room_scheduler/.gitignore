@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+
+# Virtual environment
+venv/
+
+# Generated scheduler output
+schedule.json
+conflicts.log

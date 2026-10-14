@@ -1,0 +1,13 @@
+[1m.\scheduler_system.py[m[36m:[m11[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1m.\scheduler_system.py[m[36m:[m14[36m:[m80[36m:[m [1m[31mE501[m line too long (87 > 79 characters)
+[1m.\scheduler_system.py[m[36m:[m18[36m:[m80[36m:[m [1m[31mE501[m line too long (102 > 79 characters)
+[1m.\scheduler_system.py[m[36m:[m22[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1m.\scheduler_system.py[m[36m:[m27[36m:[m5[36m:[m [1m[31mE722[m do not use bare 'except'
+[1m.\scheduler_system.py[m[36m:[m30[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1m.\scheduler_system.py[m[36m:[m34[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1m.\scheduler_system.py[m[36m:[m39[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1m.\scheduler_system.py[m[36m:[m45[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1m.\scheduler_system.py[m[36m:[m46[36m:[m5[36m:[m [1m[31mF841[m local variable 'a' is assigned to but never used
+[1m.\scheduler_system.py[m[36m:[m47[36m:[m5[36m:[m [1m[31mF841[m local variable 'a_more' is assigned to but never used
+[1m.\scheduler_system.py[m[36m:[m49[36m:[m5[36m:[m [1m[31mF841[m local variable 'c' is assigned to but never used
+[1m.\scheduler_system.py[m[36m:[m59[36m:[m1[36m:[m [1m[31mE305[m expected 2 blank lines after class or function definition, found 1
